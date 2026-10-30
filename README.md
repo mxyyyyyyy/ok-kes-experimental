@@ -6,9 +6,9 @@
 
 请到 Releases 下载：
 
-- `ok-kes_完整包_20261030.zip`
+- `ok-kes_wan.zheng.bao_20261030.zip`
   完整程序 + Python 环境 + 实验版代码 + 配置
-- `ok-kes_实验包_20261030.zip`
+- `ok-kes_shi.yan.bao_20261030.zip`
   仅实验版覆盖代码，需要已有 ok-kes v1.4.10
 
 ## 安装
